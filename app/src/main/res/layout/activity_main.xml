@@ -17,18 +17,11 @@
         android:layout_height="wrap_content"
         android:text="Button" />
 
-    <Button
-        android:id="@+id/button3"
+    <ImageView
+        android:id="@+id/imageView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button" />
-
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="Button" />
+        android:src="@mipmap/ic_launcher" />
 
 </LinearLayout>
