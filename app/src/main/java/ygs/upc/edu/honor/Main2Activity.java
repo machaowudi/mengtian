@@ -13,6 +13,6 @@ public class Main2Activity extends AppCompatActivity {
     }
     public void display()
     {
-
+           //我马超无敌
     }
 }
